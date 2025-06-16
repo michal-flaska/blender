@@ -1,0 +1,3 @@
+[submodule "blender-chess-knight"]
+	path = blender-chess-knight
+	url = https://github.com/pilot2254/blender-chess-knight
