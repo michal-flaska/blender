@@ -1,0 +1,6 @@
+[submodule "external-projects/blender-hallway"]
+	path = external-projects/blender-hallway
+	url = https://github.com/michal-flaska/blender-hallway
+[submodule "external-projects/blender-chess-knight"]
+	path = external-projects/blender-chess-knight
+	url = https://github.com/michal-flaska/blender-chess-knight
